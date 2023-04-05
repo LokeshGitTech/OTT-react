@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/OTT-react/static/css/main.ba3c84c1.css",
+    "main.js": "/OTT-react/static/js/main.6c20abf2.js",
+    "index.html": "/OTT-react/index.html",
+    "main.ba3c84c1.css.map": "/OTT-react/static/css/main.ba3c84c1.css.map",
+    "main.6c20abf2.js.map": "/OTT-react/static/js/main.6c20abf2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba3c84c1.css",
+    "static/js/main.6c20abf2.js"
+  ]
+}
