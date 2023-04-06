@@ -12,7 +12,7 @@ import Search from "./Pages/Search/Search";
 function App() {
   return (
 
-    <Router>
+    <Router basename="/OTT-react">
     <Header/>
     <div className="app">
     <Container>
